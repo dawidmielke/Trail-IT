@@ -2,7 +2,7 @@
 const ListItem = () => {
   return (
     <div>
-      Dawid
+      
     </div>
   );
 }

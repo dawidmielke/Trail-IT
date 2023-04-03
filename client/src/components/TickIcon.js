@@ -1,7 +1,7 @@
 const TickIcon = () => {
   return (
     <div>
-      Dawid
+      
     </div>
   );
 }

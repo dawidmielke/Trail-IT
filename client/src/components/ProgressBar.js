@@ -2,7 +2,7 @@
 const ProgressBar = () => {
   return (
     <div>
-      Dawid
+      
     </div>
   );
 }

@@ -2,7 +2,7 @@
 const Modal = () => {
   return (
     <div>
-      Dawid
+      
     </div>
   );
 }

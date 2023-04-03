@@ -1,7 +1,7 @@
 const Auth = () => {
   return (
     <div>
-      Dawid
+      
     </div>
   );
 }
